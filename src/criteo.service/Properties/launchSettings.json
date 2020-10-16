@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "criteo.service.netcore": {
+      "commandName": "Project",
+      "launchBrowser": true
+    }
+  }
+}

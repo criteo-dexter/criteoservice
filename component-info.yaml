@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "criteo.service"
+  description: "Yet another criteo service"
+  annotations:
+    github.com/project-slug: "criteo-dexter/criteoservice"
+    backstage.io/techdocs-ref: github:https://github.com/criteo-dexter/criteoservice
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "RnD"

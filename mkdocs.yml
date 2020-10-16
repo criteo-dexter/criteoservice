@@ -1,0 +1,10 @@
+site_name: "criteo.service"
+site_description: "Yet another criteo service"
+
+nav:
+  - Introduction: index.md
+
+repo_url: https://github.com/criteo-dexter/criteoservice
+
+plugins:
+  - techdocs-core
